@@ -125,6 +125,12 @@
       "tags": ["clicker", "event", "male", "robot", "support"]
     },
     {
+      "displayName": "Veronica, the Android Archer",
+      "image": "mini_Veronica.jpg",
+	  "slot": 1,
+      "tags": ["elf", "event", "female", "robot", "support"]
+    },
+    {
       "displayName": "Jim the Lumberjack",
       "image": "mini_Jim.jpg",
 	  "slot": 2,
@@ -173,6 +179,12 @@
       "tags": ["human", "male", "dps", "event"]
     },
     {
+      "displayName": "Serpent King Draco",
+      "image": "mini_Draco.jpg",
+	  "slot": 5,
+      "tags": ["animal", "dps", "event", "male", "royal"]
+    },
+    {
       "displayName": "Detective Kaine",
       "image": "mini_Kaine.jpg",
 	  "slot": 6,
@@ -203,6 +215,12 @@
       "tags": ["male", "robot", "support", "event"]
     },
     {
+      "displayName": "Ranger Rayna",
+      "image": "mini_Rayna.jpg",
+	  "slot": 7,
+      "tags": ["dps", "event", "female", "event", "human"]
+    },
+    {
       "displayName": "Natalie Dragon",
       "image": "mini_Natalie.jpg",
 	  "slot": 8,
@@ -213,6 +231,12 @@
       "image": "mini_Jack.jpg",
 	  "slot": 8,
       "tags": ["male", "animal", "gold", "tank", "supernatural", "event"]
+    },
+    {
+      "displayName": "President Billy Smithsonian",
+      "image": "mini_Billy.jpg",
+	  "slot": 8,
+      "tags": ["event", "gold", "human", "male", "support"]
     },
     {
       "displayName": "Jason, Master of Shadows",
@@ -245,6 +269,12 @@
       "tags": ["female", "elf", "support", "event"]
     },
     {
+      "displayName": "Bubba, the Swimming Orc",
+      "image": "mini_Bubba.jpg",
+	  "slot": 10,
+      "tags": ["event", "gold", "male", "orc", "support"]
+    },
+    {
       "displayName": "Khouri, the Witch Doctor",
       "image": "mini_Khouri.jpg",
 	  "slot": 11,
@@ -273,6 +303,12 @@
       "image": "mini_Rocky.jpg",
 	  "slot": 12,
       "tags": ["male", "human", "dps", "event"]
+    },
+    {
+      "displayName": "Montana James",
+      "image": "mini_Montana.jpg",
+	  "slot": 12,
+      "tags": ["event", "male", "human", "support"]
     },
     {
       "displayName": "Sarah, the Collector",
@@ -359,6 +395,12 @@
       "tags": ["male", "animal", "dps", "supernatural", "event"]
     },
     {
+      "displayName": "Littlefoot",
+      "image": "mini_Littlefoot.jpg",
+	  "slot": 18,
+      "tags": ["animal", "event", "female", "supernatural", "support", "tank"]
+    },
+    {
       "displayName": "Merci, the Mad Wizard",
       "image": "mini_Merci.jpg",
 	  "slot": 19,
@@ -375,6 +417,12 @@
       "image": "mini_Nate.jpg",
 	  "slot": 20,
       "tags": ["male", "human", "dps", "support"]
+    }
+    {
+      "displayName": "Kizlblyp, the Alien Traitor",
+      "image": "mini_Kizlblyp.jpg",
+	  "slot": 20,
+      "tags": ["alien", "dps", "event", "female", "magic", "support"]
     }
   ]  
 }
