@@ -110,6 +110,11 @@
       "displayName": "Event",
       "image": "event.png"
     }
+    {
+      "id": "alien",
+      "displayName": "Alien",
+      "image": "alien.png"
+    }
   ],
   "crusaders": [
     {
